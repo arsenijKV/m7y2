@@ -1,0 +1,12 @@
+0 air
+1 on the ice
+2 zombie
+3 car
+4 jupming
+5 hiding
+6 sosut
+7 newspaper
+8 super armor
+9 dancer
+10 armor
+11 japan
